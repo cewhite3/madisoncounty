@@ -30,8 +30,8 @@ body {
 }
 
 .content-box {
-          border: 1px solid #ccc; /* border color */
-            padding: 40px; /* padding around the content */
+            border: 1px solid #ccc; /* border color */
+            padding: 20px; /* padding around the content */
             border-radius: 10px; /* rounded corners */
             max-width: 500px; /* optional: adjust the maximum width */
             margin: 0 auto; /* center horizontally */
