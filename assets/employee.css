@@ -1,0 +1,47 @@
+html,
+body {
+  height: 100%;
+}
+
+
+.logo {
+  margin-left: ;
+}
+
+.btn {
+  width: 200px;
+  margin: 0 auto;
+}
+
+.col {
+  padding: 20px;
+}
+
+.btn-primary {
+    background-color: #273884; /* Blue */
+    border-color: #273884; /* Blue */
+    font-family: roboto;
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+    background-color: #131F4F; /* Darker blue */
+    border-color: #131F4F; /* Darker blue */
+}
+
+.content-box {
+            border: 1px solid #ccc; /* border color */
+            padding: 20px; /* padding around the content */
+            border-radius: 10px; /* rounded corners */
+            max-width: 500px; /* optional: adjust the maximum width */
+            margin: 0 auto; /* center horizontally */
+            margin-top: 50px; /* optional: add margin at the top */
+        }
+
+.title {
+
+}
+
+h2 {
+  font-family: roboto;
+}
