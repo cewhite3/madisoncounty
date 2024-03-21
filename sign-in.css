@@ -1,0 +1,47 @@
+html,
+body {
+  height: 100%;
+  font-family: 'Roboto';
+  src:url(fonts/Roboto-Thin.ttf) format('truetype')
+  
+}
+.roboto-bold {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+
+.btn-primary {
+    background-color: #273884;
+    border-color: #273884;
+}
+
+
+
+
+.form-signin {
+  max-width: 330px;
+  padding: -12rem;
+  margin-top: 14px;
+}
+
+.form-signin .form-floating:focus-within {
+  z-index: 2;
+}
+
+
+.container {
+    width: 100%;
+}
+
+.form-signin input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.form-signin input[type="password"] {
+  margin-bottom: 14px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
